@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jimmywithfiona.com/snake-game/sitemap.xml
